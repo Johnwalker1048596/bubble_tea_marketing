@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+build/
+.DS_Store
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+*.db
+chroma_data/
+extracted_images/
